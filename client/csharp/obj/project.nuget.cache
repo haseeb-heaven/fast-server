@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jgeud+DMnuz1TrnsJez/qpINqr+9npcko4Ydo5TLeDIqyaaF10zCIU9YZ7zUKORaUWSr05wOQ++z9qtGMMUC9w==",
+  "success": true,
+  "projectFilePath": "E:\\FastApi-App\\client\\FastClient\\FastClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haseeb_mir\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\haseeb_mir\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\haseeb_mir\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

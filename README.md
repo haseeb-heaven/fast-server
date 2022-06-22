@@ -1,4 +1,5 @@
 # FastServer
+![logo](https://i.imgur.com/zZJa3Wc.png)</br>
 FastServer is server created in [FastApi](https://fastapi.tiangolo.com/) with Gateway Interface in [Uvicorn](https://www.uvicorn.org/) and Clients in various languages available.
 this shows how to create a basic server with **Users** information and how to handle users data and operations listed below.
 
@@ -49,16 +50,16 @@ command: `dotnet add package Newtonsoft.Json`
 ## GoLang - GO Client for FastServer.
 - **Client** - `golang\FastClient.go` Contains client for FastServer.
 - **Requirements** - *None* just run the _FastClient.go_ file.
-- ** Features**  -  Fastest client sending 200 Request/s and Adding _500 Users_ in _3.12_ seconds
+- **Features**  -  Fastest client sending 200 Request/s and Adding _500 Users_ in _3.12_ seconds
 
 ## Nodejs - JavaScript Client for FastServer.
 - **Client** - `nodejs\FastClient.js` Contains client for FastServer.
 - **Requirements** - install modules from `requirements.txt` listed as _request_,_Faker_ or use the command line.
 command: `npm install request`
-- ** Features**  -  Fastest client sending 200 Request/s and Adding _500 Users_ in _3.62_ seconds
+- **Features**  -  Fastest client sending 200 Request/s and Adding _500 Users_ in _3.62_ seconds
 
 ## Python - Python Client for FastServer.
-- **Client** - `nodejs\FastClient.py` Contains client for FastServer.
+- **Client** - `python\FastClient.py` Contains client for FastServer.
 - **Requirements** - install modules from `requirements.txt` listed as _FastApi_,_Uvicorn_,_requests_ or use the command line.
 command: `pip install fastapi`
 

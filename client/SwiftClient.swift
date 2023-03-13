@@ -1,6 +1,3 @@
-
-Swift Client:
-```swift
 import Foundation
 
 struct User: Codable {

@@ -63,4 +63,17 @@ command: `npm install request`
 - **Requirements** - install modules from `requirements.txt` listed as _FastApi_,_Uvicorn_,_requests_ or use the command line.
 command: `pip install fastapi`
 
+## Swift - Swift Client for FastServer.
+- **Client** - swift/FastClient.swift Contains client for FastServer.
+- **Requirements** - - None. The client uses built-in Swift libraries.
+
+## Rust - Rust Client for FastServer.
+- **Client** - rust/FastClient.rs Contains client for FastServer.
+- **Requirements** - - Install reqwest and serde crates using the following command:
+`cargo install reqwest serde`
+
+## Java - Java Client for FastServer.
+- **Client** - java/FastClient.java Contains client for FastServer.
+- **Requirements** - - None. The client uses built-in Java libraries.
+
 written and maintained by Haseeb Mir (haseebmir.hm@gmail.com)

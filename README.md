@@ -2,7 +2,7 @@
 ![logo](https://i.imgur.com/zZJa3Wc.png)</br>
 FastServer is server created in [FastApi](https://fastapi.tiangolo.com/) with Gateway Interface in [Uvicorn](https://www.uvicorn.org/) and Clients in various languages available.
 this shows how to create a basic server with **Users** information and how to handle users data and operations listed below.
-
+- **Support this Project** <a href="https://www.buymeacoffee.com/haseebheaven"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=haseebheaven&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 ## Server Operations.
 - **Adding** - Adding user to server using `/add-user/` endpoint.
 - **Updating** - Updating user information in server using `/update-user/` endpoint.

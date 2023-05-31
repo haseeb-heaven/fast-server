@@ -133,6 +133,7 @@ async def remove_user(id:int):
         return {"data": "User '" + user + "' removed success"}
 
 #Show Server info.
+@app.get("/")
 @app.get("/server-info/")
 async def get_server_info():
     global users

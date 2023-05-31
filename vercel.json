@@ -1,0 +1,14 @@
+{
+    "builds": [
+        {
+            "src": "server/FastServer.py",
+            "use": "@vercel/python"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "server/FastServer.py"
+        }
+    ]
+}
